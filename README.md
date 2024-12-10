@@ -1,5 +1,3 @@
-# Purdue Landmarks App  
-
 Welcome to the **Purdue Landmarks App**, your interactive guide to discovering landmarks across Purdue University! This native iOS app offers a map-based experience where users can explore the locations of Purdue’s iconic landmarks, learn about their history, and view images and detailed descriptions.  
 
 ## Features  
@@ -25,6 +23,12 @@ Welcome to the **Purdue Landmarks App**, your interactive guide to discovering l
 3. Tap on a pin or hit the next button to swap between landmarks.
 4. Hit the 'Learn More' button to see the landmark and learn its history.
 5. Enjoy exploring Purdue's history and campus highlights!
+
+## Screenshots
+
+<img width="509" alt="Screenshot 2024-12-09 at 8 25 23 PM" src="https://github.com/user-attachments/assets/a165dc22-3bc7-478a-bbd4-9e9600e96589">
+
+<img width="509" alt="Screenshot 2024-12-09 at 8 23 18 PM" src="https://github.com/user-attachments/assets/af7897b9-9388-4e70-9192-80e5e9c83631">
 
 ## Technologies Used  
 - **Language**: Swift  
